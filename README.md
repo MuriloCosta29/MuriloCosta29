@@ -5,15 +5,10 @@
 <br/>
 <br/>
 <br/>
+<br/>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/murilo-costa-14063437a/" target="_blank" rel="noopener noreferrer">
-    <img align="center" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a href="mailto:murilojagger@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img align="center" src="https://img.shields.io/badge/-Gmail-blue?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <a href="https://www.linkedin.com/in/murilo-costa-14063437a/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;<a href="https://mail.google.com/mail/?view=cm&fs=1&to=murilojagger@gmail.com&su=Contato%20via%20GitHub" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Gmail-blue?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
 <br/>
 
