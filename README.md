@@ -4,17 +4,15 @@
 
 <br/>
 <br/>
-<div>
-</div>
 <br/>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/murilo-costa-14063437a/" target="_blank" rel="noopener noreferrer">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img align="center" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
   <a href="mailto:murilojagger@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img align="center" src="https://img.shields.io/badge/Gmail-blue?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img align="center" src="https://img.shields.io/badge/-Gmail-blue?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
 <br/>
