@@ -1,31 +1,37 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7FF&height=120&section=header"/>
+# Murilo Costa 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=36BCF7FF&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Murilo;)](https://git.io/typing-svg)
+> "There is nothing noble in being superior to your fellow man; true nobility is being superior to your former self." — *Ernest Hemingway*
 
-<br/>
-<br/>
-<br/>
-<br/>
+### 🎓 About Me
+Estudante de Ciência da Computação (**Cesar School**), focado em **Back-End** e **Engenharia de Software**.
+Busco a excelência nos fundamentos: algoritmos sólidos e código limpo, sem *hype*.
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/murilo-costa-14063437a/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;<a href="https://mail.google.com/mail/?view=cm&fs=1&to=carlosmuriloocf@gmail.com&su=Contato%20via%20GitHub" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Gmail-blue?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</div>
-<br/>
+---
 
-<h3 align="center" style="font-size:50px">👨‍💻 I work with:</h3>
+### 💼 Tech Stack
 
-<br/>
+**♟️ Core & Logic**
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)
 
-<div align="center">
-  <img align="center" alt="HTML5" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-  
-  <img align="center" alt="CSS3" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+**🏛️ Structure & Style**
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white)
 
-  <img align="center" alt="JavaScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-  
-  <img align="center" alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  
-  <img align="center" alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-</div>
+**🛠️ Tools & Version Control**
+![Git](https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7FF&height=120&section=footer"/>
+---
+
+### 🎯 Current Focus
+* Aprofundamento em **Lógica de Programação** e **Estrutura de Dados**.
+* Construção de arquiteturas escaláveis.
+
+### 📬 Connect
+<a href="https://www.linkedin.com/in/seu-perfil" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+</a>
+<a href="mailto:seu-email@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
+</a>
