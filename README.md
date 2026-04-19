@@ -98,7 +98,7 @@ philosophy: "Document everything — projects, failures, and progress."
 
 <!-- Social Links -->
 [![Blog](https://img.shields.io/badge/Blog-0d1117?style=for-the-badge&logo=githubpages&logoColor=58a6ff)](https://murilocosta29.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/carlosmuriloocf/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/murilocosta1/)
 [![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:murilocosta.dev1@gmail.com)
 
 <br/>
