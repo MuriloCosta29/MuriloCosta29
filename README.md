@@ -13,7 +13,7 @@
 ```yaml
 name: Carlos Murilo de Oliveira Costa Filho
 location: Recife, PE — Brazil
-education: Computer Science @ CESAR School (2nd semester)
+education: Computer Science @ CESAR School (3nd semester)
 goal: Become a Platform Engineer before 25
 philosophy: "Document everything — projects, failures, and progress."
 ```
